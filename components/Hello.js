@@ -11,8 +11,7 @@ const Hello = () => {
           <Title>
             welcome to this template, 
           </Title>
-          <Description>import a bunch of stuff to play with from the components directory.
-            this template was used to create this <Link href="malgamves.dev"> course </Link>
+          <Description>Kooli Booli
           </Description>
         </Main>
       </PageContainer>
